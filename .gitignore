@@ -1,2 +1,4 @@
 vendor
 composer.lock
+web/sites/default/files/js
+web/sites/default/files/php
